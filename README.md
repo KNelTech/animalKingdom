@@ -1,35 +1,3 @@
-# animalKingdom
-
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+Do you like animals? Me either but this is where I finished my first simple vue app and thats pretty cool.
+That router can be a little weird to deal with but it sure was quick, after I started figuring out which buttons and levers do what.
+If you find this repo and you're learning, drop me an issue and lets work on something cool to learn! This is not that clean but i'll fix it and add a few more things =]
