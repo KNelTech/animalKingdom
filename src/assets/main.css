@@ -1,0 +1,29 @@
+/* demodex body {
+  background-image: url('../assets/skin.jpeg');
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+} */
+
+body {
+  background-image: url(../assets/ai-generated-beautiful-nature-picture-free-photo-transformed.jpeg);
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+/* body {
+  background-image: url('../assets/water.jpg');
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+} */
